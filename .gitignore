@@ -1,0 +1,34 @@
+# OS metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# editor files
+*~
+*#
+*.swp
+
+# byproducts
+*.o
+*.o.ur-safe
+*.a
+*.so
+*.dylib
+*.ko
+a.out
+*.native
+*.pyc
+
+# config/environment files
+.env
+
+# temp/build dirs
+tmp/
+build/
+_build/
+.vagrant/
